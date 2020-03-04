@@ -1,2 +1,2 @@
 # Mumma-Moppet-App
-App for the Mumma's Moppet project 
+App for the Mumma's Moppet project ( React native )
